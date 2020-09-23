@@ -1,5 +1,18 @@
 # Semicolon delimited, view raw or download to see line-returns
 
+Angel of Destiny; A-
+Archon of Emeria; C+
+Archpriest of Iona; 
+Emeria's Call; A+
+Felidar Retreat; A
+Legion Angel; B
+Luminarch Aspirant; B+
+Maul of the Skyclaves; A-
+Ondu Inversion; C+
+Skyclave Apparition; 
+
+
+
 Inscription of Abundance; A-
 Kazandu Mammoth; A-
 Lotus Cobra; B
@@ -17,4 +30,13 @@ Nissa of Shadowed Boughs; A-
 Omnath, Locus of Creation; F
 Orah, Skyclave Hierophant; A-
 Phylath, World Sculptor; A
-Verazol, the Split Current; 
+Verazol, the Split Current; A
+Yasharn, Implacable Earth; B+
+Zagras, Thief of Heartbeats; A
+Zareth San, the Trickster; A
+Forsaken Monument; F
+Lithoform Engine; Buildaround A
+Myriad Construct; B
+Skyclave Relic; Buildaround
+Crawling Barrens; B+
+Throne of Makindi; Buildaround C+
