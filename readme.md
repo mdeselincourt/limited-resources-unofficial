@@ -1,5 +1,7 @@
 # Semicolon delimited, view raw or download to see line-returns
 
+## ZNR
+
 Angel of Destiny; A-
 Archon of Emeria; C+
 Archpriest of Iona; 
@@ -10,8 +12,6 @@ Luminarch Aspirant; B+
 Maul of the Skyclaves; A-
 Ondu Inversion; C+
 Skyclave Apparition; 
-
-
 
 Inscription of Abundance; A-
 Kazandu Mammoth; A-
@@ -40,3 +40,28 @@ Myriad Construct; B
 Skyclave Relic; Buildaround
 Crawling Barrens; B+
 Throne of Makindi; Buildaround C+
+
+Cliffhaven Sell-Sword; C
+Dauntless Unity; C-
+
+
+Journey to Oblivion; B+
+
+Makindi Stampede; B
+
+Prowling Felidar; C
+
+Cascade Seer; C
+
+Expedition Diviner; C+
+
+Blood Beckoning; C+
+
+Ardent Electromancer; D
+
+Inordinate Rage; D
+
+Joraga Visionary; C+
+Kazandu Nectarpot; D
+
+Base Camp; Buildaround C
