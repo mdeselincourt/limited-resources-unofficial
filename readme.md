@@ -44,16 +44,44 @@ Throne of Makindi; Buildaround C+
 Cliffhaven Sell-Sword; C
 Dauntless Unity; C-
 
+Allied Assault; C+
+Angelheart Protector; C-
+Attended Healer; B-
+Canyon Jerboa; B
 
+Emeria Captain; B
+
+Fearless Fledgling; B
 Journey to Oblivion; B+
+
+Kabira Takedown; B+
+Kitesail Cleric; C+
+Kor Blademaster; C+
 
 Makindi Stampede; B
 
+Paired Tactician; B-
+
 Prowling Felidar; C
+
+Sejiri Shelter; B
+
+Skyclave Cleric; B+
+
+Beyeen Veil; C+
 
 Cascade Seer; C
 
 Expedition Diviner; C+
+
+Jwari Disruption; C+
+
+Lullmage's Domination; C+
+Merfolk Falconer; B-
+Merfolk Windrobber; C+
+
+Roost of Drakes; Buildaround B
+Ruin Crab; C
 
 Blood Beckoning; C+
 
