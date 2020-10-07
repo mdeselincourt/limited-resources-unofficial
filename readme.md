@@ -83,6 +83,14 @@ Merfolk Windrobber; C+
 Roost of Drakes; Buildaround B
 Ruin Crab; C
 
+Skyclave Plunder; C+
+
+Sure-Footed Infiltrator; B
+
+Umara Wizard; B+
+
+Acquisitions Expert; C+
+Blackbloom Rogue; B+
 Blood Beckoning; C+
 
 Ardent Electromancer; D
