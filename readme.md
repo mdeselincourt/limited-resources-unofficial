@@ -11,6 +11,20 @@ Leafkin Avenger; B+
 Lorescale Coatl; B+
 Obsessive Stitcher; B
 
+Frost Breath; D
+Jeskai Elder; C+
+Keen Glidemaster; C-
+Library Larcenist; 
+
+Lofty Denial; D/C
+Miscast; Sideboard
+Mistral Singer; B-
+
+Read the Tides; C-
+Rewind; D
+Riddleform; Buildaround B
+Roaming Ghostlight; 
+
 
 
 ## ZNR
