@@ -1,32 +1,44 @@
-# Semicolon delimited, view raw or download to see line-returns
+# Semicolon delimited, view raw or download to get line-returns
 
 ## M21
 
-Alpine Houndmaster; B+; 
-Conclave Mentor; B+; 
-Direfleet Warmonger; B+; 
-Experimental Overload; A-; 
-Indulgent Patrician; B+; 
-Leafkin Avenger; B+; 
-Lorescale Coatl; B+; 
-Obsessive Stitcher; B; 
+Alpine Houndmaster; B+ ; 
+Conclave Mentor; B+ ; 
+Direfleet Warmonger; B+ ; 
+Experimental Overload; A- ; 
+Indulgent Patrician; B+ ; 
+Leafkin Avenger; B+ ; 
+Lorescale Coatl; B+ ; 
+Obsessive Stitcher; B ; 
 
-Frost Breath; D; 
-Jeskai Elder; C+; 
-Keen Glidemaster; C-; 
+Frost Breath; D ; 
+Jeskai Elder; C+ ; 
+Keen Glidemaster; C- ; 
 Library Larcenist;  ;
 
-Lofty Denial; D/C;
-Miscast; Sideboard;
-Mistral Singer; B-;
+Lofty Denial; D/C ;
+Miscast; Sideboard ;
+Mistral Singer; B- ;
 
-Read the Tides; C-;
-Rewind; D;
-Riddleform; Buildaround B;
-Roaming Ghostlight; B+;
-Rookie Mistake; D;
-Rousing Read; C+;
-Sanctum of Calm Waters; 
+Read the Tides; C- ;
+Rewind; D ;
+Riddleform; Buildaround B ;
+Roaming Ghostlight; B+ ;
+Rookie Mistake; D ;
+Rousing Read; C+ ;
+Sanctum of Calm Waters; Buildaround B ;
+Shipwreck Dowser; B+ ;
+Spined Megalodon; D+ ;
+Teferi's Protege; C- ;
+Teferi's Tutelage;  Buildaround B+;
+
+Tome Anima;  ;
+Unsubstantiate; C ;
+Vodalian Arcanist; C ;
+Waker of Waves; B+ ; 
+Wall of Runes; F ;
+Wishcoin Crab; D ;
+
 
 
 
