@@ -39,7 +39,12 @@ Waker of Waves; B+ ;
 Wall of Runes; F ;
 Wishcoin Crab; D ;
 
-
+Malefic Scythe; B-;
+Masked Blackguard; 
+Mind Rot; C-;
+Pestilent Haze; B;
+Rise Again; Buildaround B;
+Sanctum of Stone Fangs; 
 
 
 ## ZNR
