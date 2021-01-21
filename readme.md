@@ -10,6 +10,13 @@ Indulgent Patrician; B+ ;
 Leafkin Avenger; B+ ; 
 Lorescale Coatl; B+ ; 
 Obsessive Stitcher; B ; 
+Twinblade Assassins; B
+
+
+Cancel;
+Capture Sphere; C+;
+Enthralling Hold; A-;
+Frantic Inventory; 
 
 Frost Breath; D ; 
 Jeskai Elder; C+ ; 
@@ -78,6 +85,16 @@ Thrill of Possibility; C;
 Traitorous Greed; ;
 Turn to Slag; C+;
 Turret Ogre; C;
+
+Unleash Fury; F;
+Volcanic Geyser; C+;
+Burlfist Oak; ;
+Canopy Stalker; D;
+Colossal Dreadmaw; C;
+Cultivate; B;
+Drowsing Tyrannodon; C+;
+Fierce Empath; C-;
+Fungal Rebirth; B-;
 
 
 
