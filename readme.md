@@ -46,6 +46,28 @@ Pestilent Haze; B;
 Rise Again; Buildaround B;
 Sanctum of Stone Fangs; 
 
+Sanguine Indulgence; C ;
+Silversmote Ghoul; Buildaround B+ ;
+Skeleton Archer; C+ ; 
+Tavern Swindler; Buildaround C+ ;
+Village Rites;  ;
+Walking Corpse; D; 
+
+Battle-Rattle Shaman; C+;
+Bolt Hound; B-;
+Bone Pit Brute; D;
+
+Crash Through; C-;
+Destructive Tampering; Sideboard D;
+Furious Rise; Buildaround B;
+Furor of the Bitten; F;
+Goblin Arsonist;  ;
+Goblin Wizardry; C+;
+Havoc Jester; B;
+Heartfire Immolator;  ;
+Hellkite Punisher;  ;
+Hobblefiend; C;
+
 
 ## ZNR
 
