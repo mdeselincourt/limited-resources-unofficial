@@ -68,6 +68,20 @@ Heartfire Immolator;  ;
 Hellkite Punisher;  ;
 Hobblefiend; C;
 
+Sanctum of Shattered Heights; Buildaround B;
+Scorching Dragonfire; B+;
+Shock; C+;
+Soul Sear; B+;
+Spellgorger Weird; 
+Sure Strike; C-;
+Thrill of Possibility; C;
+Traitorous Greed; ;
+Turn to Slag; C+;
+Turret Ogre; C;
+
+
+
+
 
 ## ZNR
 
