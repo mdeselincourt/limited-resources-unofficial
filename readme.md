@@ -40,9 +40,8 @@ Teferi's Protege; C- ;
 Teferi's Tutelage;  Buildaround B+;
 
 Tideskimmer; Buildaround B;
-
-Tolarian Kraken; ;
-Tome Anima;  ;
+Tolarian Kraken; C+;
+Tome Anima; C- ;
 Unsubstantiate; C ;
 Vodalian Arcanist; C ;
 Waker of Waves; B+ ; 
