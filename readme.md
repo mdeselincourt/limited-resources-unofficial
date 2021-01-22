@@ -4,17 +4,29 @@
 
 Axgard Braggart; C+; c;
 Battershield Warrior; C+; u;
-Battlefield Raptor; C-; c;
+Battlefield Raptor; C; c;
 Beskir Shieldmate; C+ ; c;
 ;B;;
-Clarion Spirit; B+; u
-Codespell Cleric; ; c
-Divine Gambit; C ; u
+Clarion Spirit; B+; u ;
+Codespell Cleric; ; c ;
+Divine Gambit; C ; u ;
 Doomskar Oracle;
-Giant Ox; D; c
-Gods' Hall Guardian;  ; c
-Goldmaw Champion; C ;c
-Invoke the Divine;  ; c
+Giant Ox; D; c ;
+Gods' Hall Guardian;  ; c ;
+Goldmaw Champion; C ;c ;
+Invoke the Divine; Sideboard ; c ;
+Iron Verdict; ; c ;
+
+Kaya's Onslaught;  ; u ;
+Master Skald;  ; c ;
+
+Shepherd of the Cosmos; B; ;
+Spectral Steel;  ; u ;
+
+Stalwart Valkrie; C+; ; 
+Starnheim Courser; ; 
+
+Valkrie's Sword; B ; u ;
 
 
 ## M21
