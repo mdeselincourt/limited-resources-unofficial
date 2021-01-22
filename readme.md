@@ -1,5 +1,22 @@
 # Semicolon delimited, view raw or download to get line-returns
 
+## Kaldheim
+
+Axgard Braggart; C+; c;
+Battershield Warrior; C+; u;
+Battlefield Raptor; C-; c;
+Beskir Shieldmate; C+ ; c;
+;B;;
+Clarion Spirit; B+; u
+Codespell Cleric; ; c
+Divine Gambit; C ; u
+Doomskar Oracle;
+Giant Ox; D; c
+Gods' Hall Guardian;  ; c
+Goldmaw Champion; C ;c
+Invoke the Divine;  ; c
+
+
 ## M21
 
 Alpine Houndmaster; B+ ; 
