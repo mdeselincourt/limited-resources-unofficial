@@ -39,6 +39,9 @@ Spined Megalodon; D+ ;
 Teferi's Protege; C- ;
 Teferi's Tutelage;  Buildaround B+;
 
+Tideskimmer; Buildaround B;
+
+Tolarian Kraken; ;
 Tome Anima;  ;
 Unsubstantiate; C ;
 Vodalian Arcanist; C ;
