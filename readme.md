@@ -28,6 +28,24 @@ Starnheim Courser; ;
 
 Valkrie's Sword; B ; u ;
 
+Wings of the Cosmos; C- ; c ;
+Annul; Sideboard D; c;
+Augury Raven; B- ; c
+Avalanche Caller; Buildaround B ; u
+Behold the Multiverse; ; c;
+Berg Strider;  ; c;
+
+Brinebarrow Intruder ; C- ; c;
+Depart the Realm;  ; c;
+Disdainful Stroke;  ; c;
+Draugr Thoughthief; C ; c;
+Frost Augur;  ; u;
+Frostpeak Yeti;  ; c;
+Frostpyre Arcanist;  ; u ;
+Giant's Amulet;  ; u
+
+
+
 
 ## M21
 
