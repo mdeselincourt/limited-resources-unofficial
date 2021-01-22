@@ -11,13 +11,11 @@ Leafkin Avenger; B+ ;
 Lorescale Coatl; B+ ; 
 Obsessive Stitcher; B ; 
 Twinblade Assassins; B
-
-
-Cancel;
+Watcher of the Spheres; B+;
+Cancel; C-;
 Capture Sphere; C+;
 Enthralling Hold; A-;
-Frantic Inventory; 
-
+Frantic Inventory; Buildaround;
 Frost Breath; D ; 
 Jeskai Elder; C+ ; 
 Keen Glidemaster; C- ; 
