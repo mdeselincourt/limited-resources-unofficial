@@ -42,7 +42,11 @@ Draugr Thoughthief; C ; c;
 Frost Augur;  ; u;
 Frostpeak Yeti;  ; c;
 Frostpyre Arcanist;  ; u ;
-Giant's Amulet;  ; u
+Giant's Amulet; B ; u
+Glimpse the Cosmos; B ;u
+Icebind Pillar; Buildaround B+ ; u
+Inga Rune-Eyes; B- ; u
+Karfell Harbinger
 
 
 
