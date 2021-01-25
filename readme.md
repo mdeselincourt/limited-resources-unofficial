@@ -46,10 +46,23 @@ Giant's Amulet; B ; u
 Glimpse the Cosmos; B ;u
 Icebind Pillar; Buildaround B+ ; u
 Inga Rune-Eyes; B- ; u
-Karfell Harbinger
-
-
-
+Karfell Harbinger; ;c
+Littjara Kinseekers; B-; 
+Mist Of Littjara; C; 
+Mistwalker;C+;c
+Pilfering hawk;D;c
+Ravenform; Sideboard C; 
+Run Ashore; C;
+Rune of Flight; B-
+Saw It Coming; D+
+Strategic Planning; D
+Undersea Invader ;D;c
+Bloodsky Berserker;B ;u
+Deathknell Berserker;C-;c
+Demonic Gifts;D;
+Dogged Pursuit;C;c
+Draugr Recruiter;D;
+Draugr's Helm;
 
 ## M21
 
