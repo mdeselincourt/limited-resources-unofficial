@@ -64,6 +64,11 @@ Dogged Pursuit;C;c
 Draugr Recruiter;D;
 Draugr's Helm;
 
+Hailstorm Valkyrie; Buildaround C;
+Infernal Pet;;c
+Jarl of the Forsaken;B-;c
+Karfell Kennelmaster;;
+
 ## M21
 
 Alpine Houndmaster; B+ ; 
