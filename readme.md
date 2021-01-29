@@ -226,16 +226,29 @@ Fungal Rebirth; B-;
 
 ## ZNR
 
+Kargan Warleader;B+;u
+
 Angel of Destiny; A- ;
 Archon of Emeria; C+ ;
 Archpriest of Iona; ;
+
+Allied Assault;Buildaround C+;u
+Angelheart Protector; C- ;c
+
+
 Emeria's Call; A+ ;
+
+Expedition Healer; C+; c
+Farsight Adept; C;c
+
 Felidar Retreat; A ;
 Legion Angel; B ;
 Luminarch Aspirant; B+ ;
 Maul of the Skyclaves; A- ;
 Ondu Inversion; C+ ;
 Skyclave Apparition; ;
+
+
 
 Inscription of Abundance; A- ;
 Kazandu Mammoth; A- ;
@@ -292,17 +305,22 @@ Sejiri Shelter; B ;
 
 Skyclave Cleric; B+ ;
 
+//Blue
+
 Beyeen Veil; C+ ;
 
+Bubble Snare; B-; c
 Cascade Seer; C ;
 
 Expedition Diviner; C+ ;
 
 Jwari Disruption; C+ ;
-
+Living Tempest;;u
 Lullmage's Domination; C+ ;
 Merfolk Falconer; B- ;
 Merfolk Windrobber; C+ ;
+
+Negate; Sideboard; c
 
 Roost of Drakes; Buildaround B ;
 Ruin Crab; C ;
@@ -316,12 +334,34 @@ Umara Wizard; B+ ;
 Acquisitions Expert; C+ ;
 Blackbloom Rogue; B+ ;
 Blood Beckoning; C+ ;
+Bloodchief's Thirst; A-;u
+Deadly Alliance; B+;c
+
+Guul Draz Mucklord; D+; c
+Hagra Constrictor;Buildaround C+;c 
 
 Ardent Electromancer; D ;
 
 Inordinate Rage; D ;
 
+Scavenged Blade;C-;c
+Scorch Rider;C;c
+
+Tuktuk Rubblefort;F;c
+//Green
+Adventure Awaits; D+;c
+
+Dauntless Survivor;C;c
+Gnarlid Colony;C;c
+
 Joraga Visionary; C+ ;
 Kazandu Nectarpot; D ;
+Kazandu Stomper;;c
+
+Skyclave Pick-Axe; B-; u
 
 Base Camp; Buildaround C ;
+
+//Colourless
+
+Utility Knife;F;c
