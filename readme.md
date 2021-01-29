@@ -111,6 +111,18 @@ Elven Bow;;u
 Fynn, the Fangbearer;B;u
 Glittering Frost;;c
 
+Path to the World Tree; F;u 
+Ravenous Lindwurm;C;c
+Rootless Yew;C+;u
+Roots of Wisdom;D;c
+Rune of Might;B;u
+
+Spirit of the Aldergard;;u
+Struggle for Skemfar;B;c
+Aegar, the Freezing Flame;B;u
+Arni Slays the Troll;;u
+Descent of the Worthy;D
+
 
 ## M21
 
