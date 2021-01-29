@@ -220,7 +220,9 @@ Drowsing Tyrannodon; C+;
 Fierce Empath; C-;
 Fungal Rebirth; B-;
 
-
+//Rares and Mythics
+Inscription of Ruin;B+;r
+Nighthawk Scavenger; A;r
 
 
 
