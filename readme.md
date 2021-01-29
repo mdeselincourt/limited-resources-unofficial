@@ -69,6 +69,49 @@ Infernal Pet;;c
 Jarl of the Forsaken;B-;c
 Karfell Kennelmaster;;
 
+Skemfar Shadowsage;C+;;u
+Skull Raid;C-;c
+Tergrid's Shadow;B;u
+Vengeful Reaper;B;u
+Village Rites;C-;c
+Weigh Down; C+ ;c
+Withercrown;C;c
+Axgard Cavalry;C;c
+Basalt Ravager;B;u
+Breakneck Berserker;C;c
+Cinderheart Giant;D;c
+Craven Hulk;C+;c
+Crush the Weak;;u
+Doomskar Titan;B;u
+Dual Strike;F;u
+Dwarven Hammer;B+;u
+Dwarven Reinforcements;C;c
+Fearless Liberator;C+;u
+Fearless Pup;;c
+Frenzied Raider;B-;u
+Frost Bite;C+;c
+Hagi Mob;C;c
+Immersturm Raider;C;c
+Open the Omenpaths;F;c
+Provoke the Trolls;C+;u
+
+Rune of Speed;C;u
+Shackles of Treachery;D;c
+Smashing Success;Sideboard D;c
+Squash;Buildaround B+;c
+Tormentor's Helm;C+;c
+Tuskeri Firewalker;;c
+
+Arachnoform;F;c
+Blizzard Brawl;B+;u
+Boreal Outrider;;u
+Broken Wings;Sideboard C+;c
+Elderleaf Mentor;C;c
+Elven Bow;;u
+Fynn, the Fangbearer;B;u
+Glittering Frost;;c
+
+
 ## M21
 
 Alpine Houndmaster; B+ ; 
