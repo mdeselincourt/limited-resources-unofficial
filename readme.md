@@ -314,7 +314,10 @@ Beyeen Veil; C+ ;
 Bubble Snare; B-; c
 Cascade Seer; C ;
 
-Expedition Diviner; C+ ;
+Chilling Trap;Buildaround C+;c
+Cleric of Chill Depths; C;c
+
+Expedition Diviner; C+ ;c
 
 Jwari Disruption; C+ ;
 Living Tempest;;u
@@ -342,12 +345,20 @@ Deadly Alliance; B+;c
 Guul Draz Mucklord; D+; c
 Hagra Constrictor;Buildaround C+;c 
 
+Malakir Rebirth; C+ 
+Marauding Blight-Priest; C;c
+// Red
 Ardent Electromancer; D ;
+
+Expedition Champion;C+;c
 
 Inordinate Rage; D ;
 
 Scavenged Blade;C-;c
 Scorch Rider;C;c
+
+Shatterskull Minotaur;B-;u
+Sizzling Barrage;C-;c
 
 Tuktuk Rubblefort;F;c
 //Green
@@ -362,8 +373,14 @@ Kazandu Stomper;;c
 
 Skyclave Pick-Axe; B-; u
 
+Vastwood Fortification; C+; u
+Vastwood Surge; B ;u
+
 Base Camp; Buildaround C ;
 
 //Colourless
+
+Relic Vial; Buildaround B; u
+Sea Gate Colossus;C-;c
 
 Utility Knife;F;c
