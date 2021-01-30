@@ -124,8 +124,9 @@ Arni Slays the Troll;;u
 Descent of the Worthy;D
 
 
-## M21
+## Core 2021
 
+// Gold
 Alpine Houndmaster; B+ ; 
 Conclave Mentor; B+ ; 
 Direfleet Warmonger; B+ ; 
@@ -136,6 +137,8 @@ Lorescale Coatl; B+ ;
 Obsessive Stitcher; B ; 
 Twinblade Assassins; B
 Watcher of the Spheres; B+;
+
+// Blue
 Cancel; C-;
 Capture Sphere; C+;
 Enthralling Hold; A-;
@@ -228,14 +231,17 @@ Nighthawk Scavenger; A;r
 
 ## ZNR
 
+// Gold
 Kargan Warleader;B+;u
+
+
 
 Angel of Destiny; A- ;
 Archon of Emeria; C+ ;
 Archpriest of Iona; ;
 
-Allied Assault;Buildaround C+;u
-Angelheart Protector; C- ;c
+
+
 
 
 Emeria's Call; A+ ;
@@ -280,24 +286,27 @@ Skyclave Relic; Buildaround;
 Crawling Barrens; B+ ;
 Throne of Makindi; Buildaround C+ ;
 
-Cliffhaven Sell-Sword; C ;
-Dauntless Unity; C- ;
-
-Allied Assault; C+ ;
-Angelheart Protector; C- ;
-Attended Healer; B- ;
-Canyon Jerboa; B ;
-
-Emeria Captain; B ;
-
-Fearless Fledgling; B ;
-Journey to Oblivion; B+ ;
-
-Kabira Takedown; B+ ;
-Kitesail Cleric; C+ ;
-Kor Blademaster; C+ ;
-
-Makindi Stampede; B ;
+//White c/u
+Allied Assault;Buildaround C+;u
+Angelheart Protector; C- ;c
+Attended Healer;B-;u
+Canyon Jerboa;B;u
+Cliffhaven Sell-Sword;C;c
+Dauntless Unity;C-;c
+Disenchant;Sideboard;c
+Emeria Captain;B;u
+Expedition Healer;C+;c
+Farsight Adept;C;c
+Fearless Fledgling; B ;u
+Journey to Oblivion; B+ ;u
+Kabira Outrider;C;c
+Kabira Takedown; B+ ;u
+Kitesail Cleric; C+ ;u
+Kor Blademaster; C+ ;u
+Kor Celebrant;C+;c
+Makindi Ox;C-;c
+Makindi Stampede; B ;u
+Mesa Lynx;;c
 
 Paired Tactician; B- ;
 
