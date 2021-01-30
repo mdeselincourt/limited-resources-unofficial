@@ -312,12 +312,12 @@ Paired Tactician; B- ;
 
 Prowling Felidar; C ;
 
-Sejiri Shelter; B ;
+Sejiri Shelter; B ;u
 
 Skyclave Cleric; B+ ;
 
 //Blue
-
+Anticognition;C-;c
 Beyeen Veil; C+ ;
 
 Bubble Snare; B-; c
@@ -339,23 +339,39 @@ Negate; Sideboard; c
 Roost of Drakes; Buildaround B ;
 Ruin Crab; C ;
 
+Silundi Vision;C+;u
 Skyclave Plunder; C+ ;
 
 Sure-Footed Infiltrator; B ;
 
-Umara Wizard; B+ ;
+Umara Wizard; B+ ;u
 
+Zulaport Duelist;Buildaround C;c
+
+// ZNR Black cu
 Acquisitions Expert; C+ ;
 Blackbloom Rogue; B+ ;
 Blood Beckoning; C+ ;
 Bloodchief's Thirst; A-;u
 Deadly Alliance; B+;c
 
+Dreadwurm;D+;c
+
+Feed the Swarm;C+;c
+
+Ghastly Gloomhunter;C+;c
 Guul Draz Mucklord; D+; c
 Hagra Constrictor;Buildaround C+;c 
 
-Malakir Rebirth; C+ 
+Malakir Rebirth; C+;u
 Marauding Blight-Priest; C;c
+Mind Carver;Buildaround B;u
+Mind Drain;C-;c
+Nimana Skitter-Sneak;D;c
+
+Subtle Strike;C;c
+Thwart the Grave;B;u
+
 // Red
 Ardent Electromancer; D ;
 
@@ -389,7 +405,15 @@ Base Camp; Buildaround C ;
 
 //Colourless
 
+Cliffhaven Kitssail;;c
+Relic Amulet;Buildaround B;u
 Relic Vial; Buildaround B; u
 Sea Gate Colossus;C-;c
 
 Utility Knife;F;c
+
+### ZNR Rares and Mythics
+
+//Black
+Shadows' Verdict;C;r
+
