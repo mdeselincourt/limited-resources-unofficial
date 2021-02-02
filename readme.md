@@ -57,17 +57,27 @@ Rune of Flight; B-
 Saw It Coming; D+
 Strategic Planning; D
 Undersea Invader ;D;c
+//Black
 Bloodsky Berserker;B ;u
 Deathknell Berserker;C-;c
 Demonic Gifts;D;
 Dogged Pursuit;C;c
 Draugr Recruiter;D;
-Draugr's Helm;
-
+Draugr's Helm;B;u
+Dread Rider;D+;c
+Duskwielder;F;c
+Elderfang Disciple;C+;c
+Feed the Serpent;B;c
+Grim Draugr;C-;c
 Hailstorm Valkyrie; Buildaround C;
 Infernal Pet;;c
 Jarl of the Forsaken;B-;c
-Karfell Kennelmaster;;
+Karfell Kennelmaster;C+;c
+Koma's Faithful;C;c
+
+Priest of the Haunted Edge; Buildaround C; c
+Raise the Draugr;C+;c
+
 
 Skemfar Shadowsage;C+;;u
 Skull Raid;C-;c
@@ -76,6 +86,7 @@ Vengeful Reaper;B;u
 Village Rites;C-;c
 Weigh Down; C+ ;c
 Withercrown;C;c
+// Red
 Axgard Cavalry;C;c
 Basalt Ravager;B;u
 Breakneck Berserker;C;c
@@ -101,7 +112,7 @@ Smashing Success;Sideboard D;c
 Squash;Buildaround B+;c
 Tormentor's Helm;C+;c
 Tuskeri Firewalker;;c
-
+//Green
 Arachnoform;F;c
 Blizzard Brawl;B+;u
 Boreal Outrider;;u
@@ -109,13 +120,20 @@ Broken Wings;Sideboard C+;c
 Elderleaf Mentor;C;c
 Elven Bow;;u
 Fynn, the Fangbearer;B;u
-Glittering Frost;;c
+Glittering Frost;Buildaround C;c
+Gnottvold Recluse;D;c
+Grizzled Outrider;D;c
+Guardian Gladewalker;C+;c
+Horizon Seeker;C;c
+
 
 Path to the World Tree; F;u 
 Ravenous Lindwurm;C;c
 Rootless Yew;C+;u
 Roots of Wisdom;D;c
 Rune of Might;B;u
+
+Snakeskin Veil;C;c
 
 Spirit of the Aldergard;;u
 Struggle for Skemfar;B;c
