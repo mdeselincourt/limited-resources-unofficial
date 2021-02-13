@@ -30,33 +30,34 @@ Valkrie's Sword; B ; u ;
 
 Wings of the Cosmos; C- ; c ;
 Annul; Sideboard D; c;
-Augury Raven; B- ; c
-Avalanche Caller; Buildaround B ; u
-Behold the Multiverse; ; c;
-Berg Strider;  ; c;
+Augury Raven;B-; c
+Avalanche Caller;Buildaround B;u
+Behold the Multiverse;C+;c;
+Berg Strider;C+;c;
+Bind the Monster;B-;c
 
-Brinebarrow Intruder ; C- ; c;
-Depart the Realm; C+; c;
-Disdainful Stroke;  ; c;
-Draugr Thoughthief; C ; c;
-Frost Augur;  ; u;
-Frostpeak Yeti;  ; c;
-Frostpyre Arcanist;  ; u ;
-Giant's Amulet; B ; u
-Glimpse the Cosmos; B ;u
-Icebind Pillar; Buildaround B+ ; u
-Inga Rune-Eyes; B- ; u
-Karfell Harbinger; ;c
+Brinebarrow Intruder;C-;c;
+Depart the Realm;C+;c;
+Disdainful Stroke;;c;
+Draugr Thought-thief;C;c;
+Frost Augur;;u;
+Frostpeak Yeti;D;c;
+Frostpyre Arcanist;D;u;
+Giant's Amulet;B;u
+Glimpse the Cosmos;B;u
+Icebind Pillar;Buildaround B+;u
+Inga Rune-Eyes;B-;u
+Karfell Harbinger;C+;c
 Littjara Kinseekers; B-; 
-Mist Of Littjara; C; 
+Mists Of Littjara;C;c
 Mistwalker;C+;c
 Pilfering hawk;D;c
 Ravenform; Sideboard C; 
-Run Ashore; C;
+Run Ashore;C;c
 Rune of Flight; B-
 Saw It Coming; D+
-Strategic Planning; D
-Undersea Invader ;D;c
+Strategic Planning;D;c
+Undersea Invader;D;c
 //Black
 Bloodsky Berserker;B ;u
 Deathknell Berserker;C-;c
@@ -98,7 +99,7 @@ Dual Strike;F;u
 Dwarven Hammer;B+;u
 Dwarven Reinforcements;C;c
 Fearless Liberator;C+;u
-Fearless Pup;;c
+Fearless Pup;C-;c
 Frenzied Raider;B-;u
 Frost Bite;C+;c
 Hagi Mob;C;c
@@ -107,11 +108,13 @@ Open the Omenpaths;F;c
 Provoke the Trolls;C+;u
 
 Rune of Speed;C;u
+Seize the Spoils;D;c
+
 Shackles of Treachery;D;c
 Smashing Success;Sideboard D;c
 Squash;Buildaround B+;c
 Tormentor's Helm;C+;c
-Tuskeri Firewalker;;c
+Tuskeri Firewalker;C+;c
 //Green
 Arachnoform;F;c
 Blizzard Brawl;B+;u
@@ -155,6 +158,8 @@ The Trickter-God's Heist;D+;u
 
 Raven Wings;C-;c
 Replicating Ring;F;u
+
+Weathered Runestone;F;u
 
 
 // Rares and Mythics
