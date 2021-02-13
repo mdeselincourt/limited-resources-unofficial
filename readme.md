@@ -36,7 +36,7 @@ Behold the Multiverse; ; c;
 Berg Strider;  ; c;
 
 Brinebarrow Intruder ; C- ; c;
-Depart the Realm;  ; c;
+Depart the Realm; C+; c;
 Disdainful Stroke;  ; c;
 Draugr Thoughthief; C ; c;
 Frost Augur;  ; u;
@@ -137,9 +137,25 @@ Snakeskin Veil;C;c
 
 Spirit of the Aldergard;;u
 Struggle for Skemfar;B;c
+
+// Gold c/u
 Aegar, the Freezing Flame;B;u
 Arni Slays the Troll;;u
 Descent of the Worthy;D
+
+Firja, Judge of Valor; B+; u
+Forging the Tyrite Sword; F; u
+Harald, King of Skemfar; B;u
+Invasion of the Giants; C+;u
+
+The Three Seasons
+The Trickter-God's Heist;D+;u
+
+// Colourless
+
+Raven Wings;C-;c
+Replicating Ring;F;u
+
 
 // Rares and Mythics
 
