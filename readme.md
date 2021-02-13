@@ -141,6 +141,10 @@ Aegar, the Freezing Flame;B;u
 Arni Slays the Troll;;u
 Descent of the Worthy;D
 
+// Rares and Mythics
+
+Cosima, God of the Voyage, A
+Cosmos Charger, A-
 
 ## Core 2021
 
