@@ -1,23 +1,22 @@
 # Semicolon delimited, view raw or download to get line-returns
 
 ## Kaldheim
-
-Axgard Braggart; C+; c;
-Battershield Warrior; C+; u;
-Battlefield Raptor; C; c;
-Beskir Shieldmate; C+ ; c;
-;B;;
-Clarion Spirit; B+; u ;
-Codespell Cleric; ; c ;
-Divine Gambit; C ; u ;
-Doomskar Oracle;
-Giant Ox; D; c ;
-Gods' Hall Guardian;  ; c ;
-Goldmaw Champion; C ;c ;
-Invoke the Divine; Sideboard ; c ;
-Iron Verdict; ; c ;
-
-Kaya's Onslaught;  ; u ;
+// White c/u
+Axgard Braggart;C+;c;
+Battershield Warrior;C+;u;
+Battlefield Raptor;C;c;
+Beskir Shieldmate;C+;c;
+Bound in Gold;B;c;
+Clarion Spirit;B+;u;
+Codespell Cleric;C;c;
+Divine Gambit;C;u;
+Doomskar Oracle;C+;c;
+Giant Ox;D;c;
+Gods' Hall Guardian;C;c;
+Goldmaw Champion;C;c;
+Invoke the Divine;Sideboard;c;
+Iron Verdict;C;c;
+Kaya's Onslaught;B-;u;
 Master Skald;Buildaround B;c;
 Revitalise;D;c
 Rune of Sustenance;B-;u
