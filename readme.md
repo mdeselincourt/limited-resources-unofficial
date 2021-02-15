@@ -18,13 +18,15 @@ Invoke the Divine; Sideboard ; c ;
 Iron Verdict; ; c ;
 
 Kaya's Onslaught;  ; u ;
-Master Skald;  ; c ;
-
-Shepherd of the Cosmos; B; ;
-Spectral Steel;  ; u ;
-
-Stalwart Valkrie; C+; ; 
-Starnheim Courser; ; 
+Master Skald;Buildaround B;c;
+Revitalise;D;c
+Rune of Sustenance;B-;u
+Shepherd of the Cosmos;B;u
+Spectral Steel;C;u;
+Stalwart Valkrie;C+;c; 
+Starnheim Courser;C;c
+Story Seeker;C;c
+Usher of the Fallen;C+;u
 
 Valkrie's Sword; B ; u ;
 
