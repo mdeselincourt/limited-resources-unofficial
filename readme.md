@@ -26,22 +26,22 @@ Stalwart Valkrie;C+;c;
 Starnheim Courser;C;c
 Story Seeker;C;c
 Usher of the Fallen;C+;u
-
-Valkrie's Sword; B ; u ;
-
+Valkrie's Sword;B-;u;
+Valour of the Worthy;D;c
+Warhorn Blast;C+;c
 Wings of the Cosmos; C- ; c ;
-Annul; Sideboard D; c;
-Augury Raven;B-; c
+// Blue c/u
+Annul; Sideboard D;c;
+Augury Raven;B-;c
 Avalanche Caller;Buildaround B;u
 Behold the Multiverse;C+;c;
 Berg Strider;C+;c;
 Bind the Monster;B-;c
-
 Brinebarrow Intruder;C-;c;
 Depart the Realm;C+;c;
-Disdainful Stroke;;c;
+Disdainful Stroke;C;c;
 Draugr Thought-thief;C;c;
-Frost Augur;;u;
+Frost Augur;Buildaround C;u;
 Frostpeak Yeti;D;c;
 Frostpyre Arcanist;D;u;
 Giant's Amulet;B;u
@@ -60,7 +60,7 @@ Saw It Coming; D+
 Strategic Planning;D;c
 Undersea Invader;D;c
 //Black
-Bloodsky Berserker;B ;u
+Bloodsky Berserker;B;u
 Deathknell Berserker;C-;c
 Demonic Gifts;D;
 Dogged Pursuit;C;c
