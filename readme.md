@@ -29,7 +29,7 @@ Usher of the Fallen;C+;u
 Valkrie's Sword;B-;u;
 Valour of the Worthy;D;c
 Warhorn Blast;C+;c
-Wings of the Cosmos; C- ; c ;
+Wings of the Cosmos;C-;c;
 // Blue c/u
 Annul; Sideboard D;c;
 Augury Raven;B-;c
@@ -49,44 +49,44 @@ Glimpse the Cosmos;B;u
 Icebind Pillar;Buildaround B+;u
 Inga Rune-Eyes;B-;u
 Karfell Harbinger;C+;c
-Littjara Kinseekers; B-; 
+Littjara Kinseekers;B-;c
 Mists Of Littjara;C;c
 Mistwalker;C+;c
 Pilfering hawk;D;c
-Ravenform; Sideboard C; 
+Ravenform;Sideboard C;c
 Run Ashore;C;c
-Rune of Flight; B-
-Saw It Coming; D+
+Rune of Flight;B-;u
+Saw It Coming;D+;u
 Strategic Planning;D;c
 Undersea Invader;D;c
 //Black
 Bloodsky Berserker;B;u
 Deathknell Berserker;C-;c
-Demonic Gifts;D;
+Demonic Gifts;D;c
 Dogged Pursuit;C;c
-Draugr Recruiter;D;
+Draugr Recruiter;D;c
 Draugr's Helm;B;u
 Dread Rider;D+;c
 Duskwielder;F;c
 Elderfang Disciple;C+;c
 Feed the Serpent;B;c
 Grim Draugr;C-;c
-Hailstorm Valkyrie; Buildaround C;
-Infernal Pet;;c
+Hailstorm Valkyrie;Buildaround C;u
+Infernal Pet;C+;c
 Jarl of the Forsaken;B-;c
 Karfell Kennelmaster;C+;c
 Koma's Faithful;C;c
-
-Priest of the Haunted Edge; Buildaround C; c
+Poison the Cup;B+;u
+Priest of the Haunted Edge;Buildaround C;c
 Raise the Draugr;C+;c
-
-
-Skemfar Shadowsage;C+;;u
+Return Upon the Tide;D;u
+Rune of Mortality;C+;u
+Skemfar Shadowsage;C+;u
 Skull Raid;C-;c
 Tergrid's Shadow;B;u
 Vengeful Reaper;B;u
 Village Rites;C-;c
-Weigh Down; C+ ;c
+Weigh Down;C+;c
 Withercrown;C;c
 // Red
 Axgard Cavalry;C;c
@@ -107,10 +107,9 @@ Hagi Mob;C;c
 Immersturm Raider;C;c
 Open the Omenpaths;F;c
 Provoke the Trolls;C+;u
-
+Run Amok;C-;c
 Rune of Speed;C;u
 Seize the Spoils;D;c
-
 Shackles of Treachery;D;c
 Smashing Success;Sideboard D;c
 Squash;Buildaround B+;c
@@ -122,48 +121,93 @@ Blizzard Brawl;B+;u
 Boreal Outrider;;u
 Broken Wings;Sideboard C+;c
 Elderleaf Mentor;C;c
-Elven Bow;;u
+Elven Bow;B-;u
 Fynn, the Fangbearer;B;u
 Glittering Frost;Buildaround C;c
 Gnottvold Recluse;D;c
 Grizzled Outrider;D;c
 Guardian Gladewalker;C+;c
 Horizon Seeker;C;c
-
-
-Path to the World Tree; F;u 
+Icehide Troll;Buildaround C;c
+Jaspera Sentinel;F;c
+King Harald's Revenge;F;c
+Littjara Glade-Warden;B;u
+Mammoth Growth;D;c
+Masked Vandal;B-;c
+Path to the World Tree;F;u 
 Ravenous Lindwurm;C;c
 Rootless Yew;C+;u
 Roots of Wisdom;D;c
 Rune of Might;B;u
-
+Sarulf's Packmate;B;c
+Sculptor of Winter;C+;c
 Snakeskin Veil;C;c
-
-Spirit of the Aldergard;;u
+Spirit of the Aldergard;B;u
 Struggle for Skemfar;B;c
-
 // Gold c/u
 Aegar, the Freezing Flame;B;u
-Arni Slays the Troll;;u
-Descent of the Worthy;D
-
-Firja, Judge of Valor; B+; u
-Forging the Tyrite Sword; F; u
-Harald, King of Skemfar; B;u
-Invasion of the Giants; C+;u
-
-The Three Seasons
+Arni Slays the Troll;B;u
+Ascent of the Worthy;D;u
+Binding the Old Gods;B+;u
+Fall of the Impostor;C+;u
+Firja, Judge of Valor;B+;u
+Forging the Tyrite Sword;F;u
+Harald, King of Skemfar;B;u
+Invasion of the Giants;C+;u
+Kardur, Doomscourge;B+;u
+Kardur's Vicious Return;B+;u
+Koll, the Forgemaster;Buildaround B;u
+Maja, Bretagard Protector;B+;u
+Moritte of the Frost;C+;u
+Narfi, Betrayer King;Buildaround B+;u
+Niko Defies Destiny;Buildaround C+;u
+Svella, Ice Shaper;B+;u
+The Three Seasons;B-;u
 The Trickter-God's Heist;D+;u
-
+Vega, the Watecher;B;u
 // Colourless
-
+Bloodline Pretender;B-;u
+Colossal Plow;F;u
+Funeral Longboat;C;c
+Goldvein Pick;C;c
+Raider's Karve;D;c
 Raven Wings;C-;c
 Replicating Ring;F;u
-
+Runed Crown;Buildaround?;u
+Scorn Effigy;C;c
 Weathered Runestone;F;u
-
-
+// Snow Dual Lands
+Kaldheim Snow Dual Land WU;C+;c
+Kaldheim Snow Dual Land WB;C+;c
+Kaldheim Snow Dual Land WR;C+;c
+Kaldheim Snow Dual Land WG;C+;c
+Kaldheim Snow Dual Land UB;C+;c
+Kaldheim Snow Dual Land UR;C+;c
+Kaldheim Snow Dual Land UG;C+;c
+Kaldheim Snow Dual Land BR;C+;c
+Kaldheim Snow Dual Land BG;C+;c
+Kaldheim Snow Dual Land RG;C+;c
+// Spell Lands
+Axgard Armory;B;u
+Bretagard Stronghold;B+;u
+Gates of Istfell;A-;u
+Gnottvold Slumbermound;B+;u
+Great Hall of Starnheim;B;u
+Immersturm Skullcairn;B;u
+Littjara Mirrorlake;A-;u0........................................................
+Port of Karfell;B?;u
+Shimmerdrift Vale;C+;c
+Skemfar Elderhall;B+;u
+Surtland Frostpyre;B;u
+// Snow Basics (not graded)
 // Rares and Mythics
+Doomskar;A;r
+Glorious Protector;A-;r
+Halvar, God of Battle;A;m
+Rally the Ranks;Buildaround B;r
+Reidane, God of the Worthy;A-;r
+Resplendent Marshal;A-;m
+Righteous Valkrie;;r
 
 Cosima, God of the Voyage, A
 Cosmos Charger, A-
