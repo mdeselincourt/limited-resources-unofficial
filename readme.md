@@ -163,8 +163,8 @@ Narfi, Betrayer King;Buildaround B+;u
 Niko Defies Destiny;Buildaround C+;u
 Svella, Ice Shaper;B+;u
 The Three Seasons;B-;u
-The Trickter-God's Heist;D+;u
-Vega, the Watecher;B;u
+The Trickster-God's Heist;D+;u
+Vega, the Watcher;B;u
 // Colourless
 Bloodline Pretender;B-;u
 Colossal Plow;F;u
@@ -194,7 +194,7 @@ Gates of Istfell;A-;u
 Gnottvold Slumbermound;B+;u
 Great Hall of Starnheim;B;u
 Immersturm Skullcairn;B;u
-Littjara Mirrorlake;A-;u0........................................................
+Littjara Mirrorlake;A-;u
 Port of Karfell;B?;u
 Shimmerdrift Vale;C+;c
 Skemfar Elderhall;B+;u
