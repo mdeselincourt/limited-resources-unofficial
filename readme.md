@@ -207,7 +207,13 @@ Halvar, God of Battle;A;m
 Rally the Ranks;Buildaround B;r
 Reidane, God of the Worthy;A-;r
 Resplendent Marshal;A-;m
-Righteous Valkrie;;r
+Righteous Valkrie;B+;r
+Runeforged Champion;Buildaround B;r
+Search for Glory;Buildaround D;r
+Sigrid, God-Favored;A-;r
+Starnheim Unleashed;A+;m
+Alrund, God of the Cosmos;A;m
+Alrund's Epiphany;A-;r
 
 Cosima, God of the Voyage, A
 Cosmos Charger, A-
