@@ -236,7 +236,12 @@ Haunting Voyage;B;m
 Rise of the Dread Marn;B+;r
 Skemfar Avenger;B;r
 Tergrid, God of Fright;B+;r
-Valki, God of Lies;;m
+Valki, God of Lies;A+;m
+Varragoth, Bloodsky Sire;B+;r
+// Red r/m
+Arni Brokenbrow;B;r
+Birgi, God of Storytelling;A;r
+Calamity Bearer;A;r
 
 ## Core 2021
 
