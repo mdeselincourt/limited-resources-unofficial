@@ -242,6 +242,23 @@ Varragoth, Bloodsky Sire;B+;r
 Arni Brokenbrow;B;r
 Birgi, God of Storytelling;A;r
 Calamity Bearer;A;r
+Dragonkin Berserker;A;r
+Goldspan Dragon;A+;m
+Magda, Brazen Outlaw;C+;r
+Quakebringer;A-;m
+Reckless Crew;F;r
+Tibalt's Trickery;F;r
+Toralf, God of Fury;A+;m
+Tundra Fumarole;B+;r
+// Green r/m
+Battle Mammoth;A+;m
+Blessing of Frost;Buildaround B;r
+Elvish Warmaster;B+;r
+Esika, God of the Tree;C+;m
+Esika's Chariot;A;r
+In Search of Greatness;D;r
+
+
 
 ## Core 2021
 
