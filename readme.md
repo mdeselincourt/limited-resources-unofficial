@@ -200,6 +200,7 @@ Shimmerdrift Vale;C+;c
 Skemfar Elderhall;B+;u
 Surtland Frostpyre;B;u
 // Snow Basics (not graded)
+
 // Rares and Mythics
 Doomskar;A;r
 Glorious Protector;A-;r
@@ -212,11 +213,20 @@ Runeforged Champion;Buildaround B;r
 Search for Glory;Buildaround D;r
 Sigrid, God-Favored;A-;r
 Starnheim Unleashed;A+;m
+// Blue r/m
 Alrund, God of the Cosmos;A;m
 Alrund's Epiphany;A-;r
-
-Cosima, God of the Voyage, A
-Cosmos Charger, A-
+Ascendant Spirit;Buildaround;r
+Cosima, God of the Voyage;A;r
+Cosmos Charger;A-;r
+Cyclone Summoner;B+;r
+Graven Lore;B;r
+Icebreaker Kraken;Buildaround A;r
+Mystic Reflection;F;r
+Orvar, the All-Form;B;m
+Reflections of Littjara;Buildaround A;r
+// Black r/m
+Blood on the Snow;;r
 
 ## Core 2021
 
