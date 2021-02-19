@@ -22,11 +22,11 @@ Revitalise;D;c
 Rune of Sustenance;B-;u
 Shepherd of the Cosmos;B;u
 Spectral Steel;C;u;
-Stalwart Valkrie;C+;c; 
+Stalwart Valkyrie;C+;c; 
 Starnheim Courser;C;c
 Story Seeker;C;c
 Usher of the Fallen;C+;u
-Valkrie's Sword;B-;u;
+Valkyrie's Sword;B-;u;
 Valour of the Worthy;D;c
 Warhorn Blast;C+;c
 Wings of the Cosmos;C-;c;
@@ -200,7 +200,6 @@ Shimmerdrift Vale;C+;c
 Skemfar Elderhall;B+;u
 Surtland Frostpyre;B;u
 // Snow Basics (not graded)
-
 // Rares and Mythics
 Doomskar;A;r
 Glorious Protector;A-;r
@@ -208,7 +207,7 @@ Halvar, God of Battle;A;m
 Rally the Ranks;Buildaround B;r
 Reidane, God of the Worthy;A-;r
 Resplendent Marshal;A-;m
-Righteous Valkrie;B+;r
+Righteous Valkyrie;B+;r
 Runeforged Champion;Buildaround B;r
 Search for Glory;Buildaround D;r
 Sigrid, God-Favored;A-;r
@@ -226,7 +225,18 @@ Mystic Reflection;F;r
 Orvar, the All-Form;B;m
 Reflections of Littjara;Buildaround A;r
 // Black r/m
-Blood on the Snow;;r
+Blood on the Snow;B-;r
+Burning-Rune Demon;A+;m
+Crippling Fear;A;r
+Draugr Necromancer;A-;r
+Dream Devourer;B;r
+Egon, God of Death;B-;r
+Eradicator Valkyrie;A;m
+Haunting Voyage;B;m
+Rise of the Dread Marn;B+;r
+Skemfar Avenger;B;r
+Tergrid, God of Fright;B+;r
+Valki, God of Lies;;m
 
 ## Core 2021
 
