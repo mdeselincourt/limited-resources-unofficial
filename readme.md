@@ -258,6 +258,8 @@ Esika, God of the Tree;C+;m
 Esika's Chariot;A;r
 In Search of Greatness;D;r
 
+Maskwood Nexus;;r
+Pyre of Heroes;F;r
 
 
 ## Core 2021
