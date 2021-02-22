@@ -257,6 +257,15 @@ Elvish Warmaster;B+;r
 Esika, God of the Tree;C+;m
 Esika's Chariot;A;r
 In Search of Greatness;D;r
+Jorn, God of Winter;Buildaround A;r
+Kolvori, God of Kinship;D;r
+Old-Growth Troll;A-;r
+Realmwalker;B+;r
+Toski, Bearer of Secrets;B;r
+Tyvar Kell;B-;m
+Vorinclex, Monstrous Raider;B+;m
+Battle for Bretagard;;r
+
 
 Maskwood Nexus;;r
 Pyre of Heroes;F;r
