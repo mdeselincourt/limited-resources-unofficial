@@ -118,7 +118,7 @@ Tuskeri Firewalker;C+;c
 //Green c/u
 Arachnoform;F;c
 Blizzard Brawl;B+;u
-Boreal Outrider;;u
+Boreal Outrider;Buildaround B+;u
 Broken Wings;Sideboard C+;c
 Elderleaf Mentor;C;c
 Elven Bow;B-;u
