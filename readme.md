@@ -59,7 +59,7 @@ Rune of Flight;B-;u
 Saw It Coming;D+;u
 Strategic Planning;D;c
 Undersea Invader;D;c
-//Black
+//Black c/u
 Bloodsky Berserker;B;u
 Deathknell Berserker;C-;c
 Demonic Gifts;D;c
@@ -88,7 +88,7 @@ Vengeful Reaper;B;u
 Village Rites;C-;c
 Weigh Down;C+;c
 Withercrown;C;c
-// Red
+// Red c/u
 Axgard Cavalry;C;c
 Basalt Ravager;B;u
 Breakneck Berserker;C;c
@@ -115,7 +115,7 @@ Smashing Success;Sideboard D;c
 Squash;Buildaround B+;c
 Tormentor's Helm;C+;c
 Tuskeri Firewalker;C+;c
-//Green
+//Green c/u
 Arachnoform;F;c
 Blizzard Brawl;B+;u
 Boreal Outrider;;u
@@ -165,7 +165,7 @@ Svella, Ice Shaper;B+;u
 The Three Seasons;B-;u
 The Trickster-God's Heist;D+;u
 Vega, the Watcher;B;u
-// Colourless
+// Colourless c/u
 Bloodline Pretender;B-;u
 Colossal Plow;F;u
 Funeral Longboat;C;c
@@ -176,17 +176,17 @@ Replicating Ring;F;u
 Runed Crown;Buildaround?;u
 Scorn Effigy;C;c
 Weathered Runestone;F;u
-// Snow Dual Lands
-Kaldheim Snow Dual Land WU;C+;c
-Kaldheim Snow Dual Land WB;C+;c
-Kaldheim Snow Dual Land WR;C+;c
-Kaldheim Snow Dual Land WG;C+;c
-Kaldheim Snow Dual Land UB;C+;c
-Kaldheim Snow Dual Land UR;C+;c
-Kaldheim Snow Dual Land UG;C+;c
-Kaldheim Snow Dual Land BR;C+;c
-Kaldheim Snow Dual Land BG;C+;c
-Kaldheim Snow Dual Land RG;C+;c
+// Snow Dual Lands c/u
+Glacial Floodplain;C+;c
+Snowfield Sinkhole;C+;c
+Alpine Meadow;C+;c
+Arctic Treeline;C+;c
+Ice Tunnel;C+;c
+Volatile Fjord;C+;c
+Rimewood Falls;C+;c
+Sulfurous Mire;C+;c
+Woodland Chasm;C+;c
+Highland Forest;C+;c
 // Spell Lands
 Axgard Armory;B;u
 Bretagard Stronghold;B+;u
@@ -264,12 +264,34 @@ Realmwalker;B+;r
 Toski, Bearer of Secrets;B;r
 Tyvar Kell;B-;m
 Vorinclex, Monstrous Raider;B+;m
-Battle for Bretagard;;r
-
-
-Maskwood Nexus;;r
+Battle for Bretagard;C+;r
+Battle of Frost and Fire;A;r
+The Bears of Littjara;A-;r
+The Bloodsky Massacre;A-;r
+Firja's Retribution;A+;r
+Harald Unites the Elves;Buildaround B;r
+Immersturm Predator;A;r
+Kaya, the Inexorable;A+;m
+King Narfi's Betrayal;C+;r
+Koma, Cosmos Serpent;A+;m
+Niko Aris;A-;m
+The Raven's Warning;B+;r
+Sarulf, Realm Eater;A;r
+Showdown of the Skalds;A-;r
+Waking the Trolls;Sideboard B;r
+// Artifacts r/m
+Cosmos Elixir;A-;r
+Maskwood Nexus;Buildaround B;r
 Pyre of Heroes;F;r
-
+// Pathways
+Barkchannel Pathway;C+;r
+Blightstep Pathway;C+;r
+Darkbore Pathway;C+;r
+Hengegate Pathway;C+;r
+// Lands r/m
+Faceless Haven;C+;r
+Tyrite Sanctum;F;r
+The World Tree;C+;r
 
 ## Core 2021
 
