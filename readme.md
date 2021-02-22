@@ -94,7 +94,7 @@ Basalt Ravager;B;u
 Breakneck Berserker;C;c
 Cinderheart Giant;D;c
 Craven Hulk;C+;c
-Crush the Weak;;u
+Crush the Weak;B;u
 Doomskar Titan;B;u
 Dual Strike;F;u
 Dwarven Hammer;B+;u
