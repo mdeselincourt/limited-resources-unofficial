@@ -31,7 +31,7 @@ Valour of the Worthy;D;c
 Warhorn Blast;C+;c
 Wings of the Cosmos;C-;c;
 // Blue c/u
-Annul; Sideboard D;c;
+Annul;Sideboard D;c;
 Augury Raven;B-;c
 Avalanche Caller;Buildaround B;u
 Behold the Multiverse;C+;c;
@@ -296,8 +296,8 @@ The World Tree;C+;r
 ## Core 2021
 
 // Gold
-Alpine Houndmaster; B+ ; 
-Conclave Mentor; B+ ; 
+Alpine Houndmaster;B+; 
+Conclave Mentor;B+ ; 
 Direfleet Warmonger; B+ ; 
 Experimental Overload; A- ; 
 Indulgent Patrician; B+ ; 
