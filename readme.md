@@ -609,3 +609,8 @@ Nylea's Forerunner;C;c
 ## THB Rares and Mythics
 
 Allure of the Unknown;F;r
+
+Nessian Boar;B;
+Nylea, Keen-Eyed;;m
+
+Atris, Oracle of Half-Truths;B+;
