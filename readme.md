@@ -586,3 +586,26 @@ Utility Knife;F;c
 //Black
 Shadows' Verdict;C;r
 
+## THB Commons and Uncommons
+
+Favored of Iroas;C+;u
+
+// Black c/u
+
+Underworld Dreams;Buildaround B;u
+Venomous Hierophant;C+;c
+// Red c/u
+
+Aspect of Manticore;C-;c
+Blood Aspirant;Buildaround B;u
+
+//Green c/u
+
+Nessian Wanderer;B;u
+Nexus Wardens;C+;c
+Nylea's Forerunner;C;c
+
+
+## THB Rares and Mythics
+
+Allure of the Unknown;F;r
