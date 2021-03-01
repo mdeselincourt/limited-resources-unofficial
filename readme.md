@@ -586,7 +586,35 @@ Utility Knife;F;c
 //Black
 Shadows' Verdict;C;r
 
-## THB Commons and Uncommons
+## THB 
+### THB Commons and Uncommons
+// Gold c/u
+Acolyte of Affliction;B;u
+Devourer of Memory;B-;u
+Eutropia the Twice-Favored;B;u
+Hero of the nyxborn;B-;u
+Mischevious Chimera;B;u
+Rise to Glory;Buildaround B;u
+Siona, Captain of the Pyleas;Buildaround B;u
+Slaughter-Priest of Mogis;Buildaround C+;u
+Staggering Insight;B;u
+Warden of the Chained;B-;u
+// White c/u
+Alseid of Life's Bounty;C+;u
+Archon of Falling Stars;B;u
+Banishing Light;B+;u
+The Birth of Meletis;C+;u
+Captivating Unicorn;C;c
+Commanding Presence;B-;
+Dawn Evangel;B-;u
+Daxos, Blessed by the Sun;B-;u
+Daybreak Chimera;B;c
+Dreadful Apathy;B+;c
+Favoured of Iroas;C+;u
+Flicker of Fate;C;c
+
+
+
 
 Favored of Iroas;C+;u
 
@@ -605,8 +633,7 @@ Nessian Wanderer;B;u
 Nexus Wardens;C+;c
 Nylea's Forerunner;C;c
 
-
-## THB Rares and Mythics
+// Rares and Mythics // // // //
 
 Allure of the Unknown;F;r
 
