@@ -612,11 +612,45 @@ Daybreak Chimera;B;c
 Dreadful Apathy;B+;c
 Favoured of Iroas;C+;u
 Flicker of Fate;C;c
+Glory Bearers;C+;c
+Heliod's Pilgrim;C+;c
+Heliod's Punishment;B-;u
+Hero of the Pride;C+;c
+Hero of the Winds;C;u
+Indomitable Will;B-;c
+Karametra's Blessing;C;c
+Lagonna-Band Storyteller;B-;u
+Leonin of the Lost Pride;C-;c
+Nyxborn Courser;C;c
+Omen of the Sun;C;c
+Phalanx Tactics;C+;u
+Pious Wayfarer;D;c
+Reverent Hoplite;B;u
+Revoke Existence;C+;c
+Rumbling Sentry;D;c
+Sentinel's Eyes;Buildaround C;c
+Sunmane Pegasus;D+;c
+Transcendent Envoy;C;c
+Triumphant Surge;C+;c
+// Blue c/u
+Alirios, Enraptured;B;u
+Brine Giant;Buildaround C;c
+Callaphe, Beloved of the Sea;B-;u
+Chain to Memory;C;c
+Deny the Divine;D+;c
+Eidolon of Philosophy;D;c
+Elite Instructor;C;c
+Glimpse of Freedom;C;u
+Ichthyomorphosis;C+;c
+Medomai's Prophecy;B;u
+Memory Drain;Sideboard D;c
+Naiad of Hidden Coves;C+;c
+Nyxborn Seaguard;C;c
+Omen of the Sea;C+;c
+One with the Stars;C+;u
+Riptide Turtle;C;c
+Sage of Mysteries;Buildaround C;u
 
-
-
-
-Favored of Iroas;C+;u
 
 // Black c/u
 
