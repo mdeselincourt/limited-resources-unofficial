@@ -587,7 +587,7 @@ Utility Knife;F;c
 Shadows' Verdict;C;r
 
 ## THB 
-### THB Commons and Uncommons
+// Commons and Uncommons //
 // Gold c/u
 Acolyte of Affliction;B;u
 Devourer of Memory;B-;u
@@ -651,8 +651,18 @@ One with the Stars;C+;u
 Riptide Turtle;C;c
 Sage of Mysteries;Buildaround C;u
 
+Thirst for Meaning;B;c
+Threnody Singer;B-;u
 
 // Black c/u
+
+Hateful Eidolon;B-; ; (Retrospectively)
+
+Minion's Return;C;u
+Mire Triton;B;u
+Mire's Grasp;B;c
+
+
 
 Underworld Dreams;Buildaround B;u
 Venomous Hierophant;C+;c
@@ -663,13 +673,20 @@ Blood Aspirant;Buildaround B;u
 
 //Green c/u
 
+Hyrax Tower Scout;C;c
+
 Nessian Wanderer;B;u
 Nexus Wardens;C+;c
 Nylea's Forerunner;C;c
+Nylea's Huntmaster;C;c
+
 
 // Rares and Mythics // // // //
 
 Allure of the Unknown;F;r
+
+Aphemia, the Cacophony;A+;r
+Eat to Extinction;A-;r
 
 Nessian Boar;B;
 Nylea, Keen-Eyed;;m
