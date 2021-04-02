@@ -113,7 +113,7 @@ Seize the Spoils;D;c
 Shackles of Treachery;D;c
 Smashing Success;Sideboard D;c
 Squash;Buildaround B+;c
-Tormentor's Helm;C+;c
+Tormentor's Helm;C+*;c
 Tuskeri Firewalker;C+;c
 //Green c/u
 Arachnoform;F;c
@@ -129,7 +129,7 @@ Grizzled Outrider;D;c
 Guardian Gladewalker;C+;c
 Horizon Seeker;C;c
 Icehide Troll;Buildaround C;c
-Jaspera Sentinel;F;c
+Jaspera Sentinel;F*;c
 King Harald's Revenge;F;c
 Littjara Glade-Warden;B;u
 Mammoth Growth;D;c
@@ -169,7 +169,7 @@ Vega, the Watcher;B;u
 Bloodline Pretender;B-;u
 Colossal Plow;F;u
 Funeral Longboat;C;c
-Goldvein Pick;C;c
+Goldvein Pick;C*;c
 Raider's Karve;D;c
 Raven Wings;C-;c
 Replicating Ring;F;u
