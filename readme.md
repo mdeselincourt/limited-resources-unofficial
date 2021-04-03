@@ -692,3 +692,21 @@ Nessian Boar;B;
 Nylea, Keen-Eyed;;m
 
 Atris, Oracle of Half-Truths;B+;
+
+# ELD
+
+// Blue c/u
+Animating Faerie;C+;u
+Charmed Sleep;B-;c
+Corridor Monitor;D+;c
+Didn't Say Please;C-;c
+Faerie Vandal;C+;u
+Frogify;D+;u
+Hypnotic Sprite;B-;u
+Into the Story;Buildaround B;u
+Mantle of Tides;C-;c
+Merfolk Secretkeeper;Buildaround B;c
+Mistford River Turtle;C;c
+Moonlit Scavengers;C+;c
+Mystical Dispute;;u
+
