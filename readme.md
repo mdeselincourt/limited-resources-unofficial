@@ -710,3 +710,17 @@ Mistford River Turtle;C;c
 Moonlit Scavengers;C+;c
 Mystical Dispute;;u
 
+// Red c/u
+Mad Ratter;Buildaround B;u
+
+// Gold c/u
+Drown in the Loch;C+;u
+
+Savvy Hunter;B;u
+
+// Colourless c/u
+Heraldic Banner;C-;u
+
+// Green r/m
+
+Once Upon a Time;C;r
