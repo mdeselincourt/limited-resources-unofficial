@@ -713,6 +713,7 @@ Mystical Dispute;;u
 // Red c/u
 Mad Ratter;Buildaround B;u
 
+
 // Gold c/u
 Drown in the Loch;C+;u
 
@@ -720,6 +721,10 @@ Savvy Hunter;B;u
 
 // Colourless c/u
 Heraldic Banner;C-;u
+
+// Black r/m
+
+Clackbridge Troll;A-;r
 
 // Green r/m
 
